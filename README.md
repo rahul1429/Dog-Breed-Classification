@@ -4,5 +4,5 @@
 *This Neural Network uses Keras layer (from TensorFlow) in order to acheive this.
 
 ## Tools & Libraries:
-    * Keras, TensorFlow -> Deep Learning Libraries
-    * SkLearn, NumPy, Pandas -> Machine Learning & Data Analysis Libraries
+   * Keras, TensorFlow -> Deep Learning Libraries
+   * SkLearn, NumPy, Pandas -> Machine Learning & Data Analysis Libraries
