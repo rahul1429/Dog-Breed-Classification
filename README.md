@@ -6,3 +6,4 @@
 ## Tools & Libraries:
    * Keras, TensorFlow -> Deep Learning Libraries
    * SkLearn, NumPy, Pandas -> Machine Learning & Data Analysis Libraries
+   * matplotlib -> Data Visualization libraries
